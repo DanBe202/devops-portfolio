@@ -1,0 +1,7 @@
+timestamp,endpoint,status_code,response_time_ms,status
+2025-11-10 16:25:58,https://api.example.com/health,N/A,159.78,DOWN
+2025-11-10 16:26:02,https://api.anotherexample.com/status,N/A,3417.58,DOWN
+2025-11-10 16:26:03,https://httpbin.org/status/404,503,830.12,UP
+2025-11-10 16:26:33,https://api.example.com/health,N/A,5.25,DOWN
+2025-11-10 16:26:33,https://api.anotherexample.com/status,N/A,2.71,DOWN
+2025-11-10 16:26:34,https://httpbin.org/status/404,503,698.01,UP
